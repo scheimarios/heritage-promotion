@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POIs List
+title: POIs List1
 permalink: /pois/
 
 ---
