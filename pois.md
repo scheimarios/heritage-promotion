@@ -1,6 +1,6 @@
 ---
 layout: page
-title: POIs List1
+title: ΣΗΜΕΙΑ ΤΟΥΡΙΣΤΙΚΟΥ ΕΝΔΙΑΦΕΡΟΝΤΟΣ
 permalink: /pois/
 
 ---
