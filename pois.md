@@ -12,3 +12,5 @@ permalink: /pois/
     </li>
   {% endfor %}
 </ul>
+uyf uyf iuf 
+gh kfgkj gh kj
