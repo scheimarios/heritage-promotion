@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Σχετικά1
+title: Σχετικά
 permalink: /about/
 ---
 
