@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Homeικά1
+title: Home
 permalink: /Home/
 ---
 
