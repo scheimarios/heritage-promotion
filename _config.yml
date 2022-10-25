@@ -36,6 +36,8 @@ plugins:
 collections:
   pois:
     output: true
+    
+google-site-verification: google1d52c89e54508d05.html
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
