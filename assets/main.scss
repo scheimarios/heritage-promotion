@@ -45,3 +45,12 @@ $on-laptop:        800px;
 
 // Import partials from the `minima` theme.
 @import "minima";
+
+// logo
+.site-title::before {
+content: url("/assets/img/logo1.png");
+display: inline-block;
+position: relative;
+width: 32px;
+top: 32px;
+}
