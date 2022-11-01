@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Θρησκευτικός Τουρισμός
+title: ΘΡΗΣΚΕΥΤΙΚΟΣ ΤΟΥΡΙΣΜΟΣ
 permalink: /about/
 ---
 
