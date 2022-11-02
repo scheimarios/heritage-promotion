@@ -36,7 +36,10 @@ plugins:
 collections:
   pois:
     output: true
-    
+
+#Facebook Sharing
+facebook_app_id: 1208615703054083  
+  
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
